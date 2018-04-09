@@ -1,0 +1,6 @@
+[lbservers]
+ec2-18-195-242-173.eu-central-1.compute.amazonaws.com
+
+[wildflyservers]
+ec2-18-195-50-77.eu-central-1.compute.amazonaws.com
+ec2-18-195-51-182.eu-central-1.compute.amazonaws.com
